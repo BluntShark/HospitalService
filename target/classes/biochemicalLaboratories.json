@@ -1,0 +1,32 @@
+[
+  {
+    "idLaboratory": 1,
+    "labName": "IK-15",
+    "labNumber": "01"
+  },
+  {
+    "idLaboratory": 2,
+    "labName": "IK-14",
+    "labNumber": "02"
+  },
+  {
+    "idLaboratory": 3,
+    "labName": "AI-10",
+    "labNumber": "03"
+  },
+  {
+    "idLaboratory": 4,
+    "labName": "LO-07",
+    "labNumber": "04"
+  },
+  {
+    "idLaboratory": 5,
+    "labName": "AQ-21",
+    "labNumber": "05"
+  },
+  {
+    "idLaboratory": 6,
+    "labName": "OS-05",
+    "labNumber": "06"
+  }
+]
